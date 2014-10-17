@@ -1,6 +1,6 @@
 # Welcome
 
-This is a repo for tracking issues related to the app challenge.
+This is a repo for tracking issues related to the [3cixty app challenge](http://appchallenge.3cixty.com).
 
 ## Frequently Asked Questions
 If you have a question that is not in the list below, please [submit a new issue](https://github.com/3cixty/appchallenge/issues).
